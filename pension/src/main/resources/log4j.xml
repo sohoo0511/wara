@@ -9,7 +9,7 @@
 			<param name="ConversionPattern" value="%-5p: %c - %m%n" />
 		</layout>
 	</appender>
-	
+	<!-- 이것은 수정을 해보는 것입니다 -->
 	<!-- Application Loggers -->
 	<logger name="com.ace.wara">
 		<level value="info" />
